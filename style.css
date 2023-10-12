@@ -1,0 +1,89 @@
+body{
+    background-color: bisque;
+}
+section{
+    display: inline-block;
+}
+
+.left{
+    border: 2px solid ;
+    background-color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 27%;
+    margin-top: 10%;
+    margin-bottom: 15%;
+}
+
+.right{
+    border: 2px solid ;
+    background-color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10%;
+    padding-top: 3%;
+}
+
+nav{
+    font-size: xxx-large;
+    margin-left: 40%;
+}
+
+.left > p{
+    font-size: xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.right > p{
+    font-size: xx-large;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.left button{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px ;
+    padding: 15px;
+}
+
+.right button{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.left textarea{
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: x-large;
+}
+
+a:hover{
+    color: black;
+}
+
+.forget{
+    display: block;
+    margin-left: 35%;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.email{
+    display: block;
+    margin-left: 27%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.tq{
+    display: block;
+    margin-left: 300%;
+    margin-top: 15px;
+}
+
+.info{
+    font-size: large;
+}

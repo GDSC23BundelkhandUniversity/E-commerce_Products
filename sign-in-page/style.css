@@ -254,7 +254,7 @@ footer a {
 }
 
 .overlay-right {
-	background: url("right-img.jpg");
+	background: url("sign-in-page/right-img.jpg");
 	background-size: 387px;
 	object-fit: cover;
 	z-index: 500;

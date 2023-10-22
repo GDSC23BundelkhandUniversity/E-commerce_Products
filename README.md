@@ -17,13 +17,9 @@ This is the first glance of our website where you see the landing page.
 
 ![Untitled (1)](https://github.com/GDSC23BundelkhandUniversity/E-commerce_Products/assets/111730298/44472bcf-1957-4b4e-b908-466f71b85d9c)
 
-- `Signin page`
+- `login page`
   
- ![Screenshot (30)](https://github.com/GDSC23BundelkhandUniversity/E-commerce_Products/assets/111730298/e79ba347-e241-4ce8-9375-f3a6e3c5b597)
- 
-- `Signup page`
-  
-![Screenshot (31)](https://github.com/GDSC23BundelkhandUniversity/E-commerce_Products/assets/111730298/bf8ce596-f6c4-4b6a-b35a-d0c05b22ebd8)
+https://github.com/GDSC23BundelkhandUniversity/E-commerce_Products/assets/111730298/1968861b-5adf-4432-92f9-9a2a2cea2c86
 
 - `Product page`
 

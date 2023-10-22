@@ -34,6 +34,7 @@ https://github.com/GDSC23BundelkhandUniversity/E-commerce_Products/assets/111730
 - Nidhi Agrahari
 - Priyanka Kashyap
 - Vihan Singh
+- Sumit
 
 
 
